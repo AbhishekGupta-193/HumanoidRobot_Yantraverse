@@ -1,10 +1,10 @@
-# # YANTRAVERSE - HumanoidRobot
+#  YANTRAVERSE - HumanoidRobot
 
-# This project of making a multipurpose HUMANOID ROBOT is being done under JANTA GROUP
+This project of making a multipurpose HUMANOID ROBOT is being done under JANTA GROUP
 
 
 
-# Functionalities of the Robot :
+## Functionalities of the Robot :
 
 Line following
 
